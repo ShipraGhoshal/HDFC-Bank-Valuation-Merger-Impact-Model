@@ -3,7 +3,7 @@
 This project presents a comprehensive financial analysis of HDFC Bank, including historical performance evaluation, financial forecasting, peer comparison, and merger impact assessment following its merger with Housing Development Finance Corporation (effective July 2023).
 The objective was to understand the bank’s financial drivers, valuation position, and the strategic and financial impact of the merger on profitability, funding structure, and efficiency.
 ## Project Components
-1. Historical Financial Analysis
+###  Historical Financial Analysis
 - Analyzed 5 years of financial data (Income Statement & Balance Sheet)
 - Identified key trends in:
   i. Loan growth
@@ -12,7 +12,7 @@ The objective was to understand the bank’s financial drivers, valuation positi
   iv. Operating expenses
   v. Profitability
 
-2. Financial Forecast Model
+### Financial Forecast Model
 Built a driver-based forecast model using:
 - Loan growth assumptions
 - Deposit growth trends
@@ -25,7 +25,7 @@ Projected:
 - Total Assets & Liabilities
 - Key performance ratios
 
-3. Ratio Analysis
+### Ratio Analysis
 Evaluated operational efficiency and profitability using:
 - Return on Equity (ROE)
 - Return on Assets (ROA)
@@ -34,14 +34,14 @@ Evaluated operational efficiency and profitability using:
 - Loan-to-Deposit Ratio (LDR)
 - Capital structure trends
 
-4. Comparable Company Analysis (CCA)
+### Comparable Company Analysis (CCA)
 Performed peer comparison with major private sector banks to assess:
 - Relative valuation multiples
 - Profitability benchmarks
 - Efficiency comparison
 - Market positioning
 
-5. Merger Impact Analysis (HDFC Ltd + HDFC Bank)
+### Merger Impact Analysis (HDFC Ltd + HDFC Bank)
 Step 1: Pre-Merger Proforma
 - Combined FY23 standalone financials of both entities
 - Reclassified HDFC Ltd (NBFC) financials into a bank-equivalent format
