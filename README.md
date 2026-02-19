@@ -87,6 +87,3 @@ Step 3: Post-Merger Performance
 
 ## About the Author
 Created as part of a financial modeling and banking analysis project to develop practical skills in equity research, financial analysis, and merger modeling.
-Total Assets & Liabilities
-
-Key performance ratios
