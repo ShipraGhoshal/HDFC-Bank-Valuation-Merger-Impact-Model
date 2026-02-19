@@ -1,5 +1,5 @@
 # HDFC-Bank-Valuation-Merger-Impact-Model
-##Project Overview
+## Project Overview
 This project presents a comprehensive financial analysis of HDFC Bank, including historical performance evaluation, financial forecasting, peer comparison, and merger impact assessment following its merger with Housing Development Finance Corporation (effective July 2023).
 The objective was to understand the bank’s financial drivers, valuation position, and the strategic and financial impact of the merger on profitability, funding structure, and efficiency.
 ## Project Components
