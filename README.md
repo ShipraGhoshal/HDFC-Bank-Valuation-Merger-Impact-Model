@@ -51,16 +51,16 @@ Step 1: Pre-Merger Proforma
    iii. Borrowings
    iv. Net worth
    v. Profitability
-Step 2: Funding Structure Analysis
+  Step 2: Funding Structure Analysis
 Evaluated impact on:
 - Deposit mix vs borrowings
 - Cost of funds implications
 - Loan-to-Deposit Ratio (LDR)
-Step 3: Post-Merger Performance
-Compared pre-merger proforma with actual:
+  Step 3: Post-Merger Performance
+  Compared pre-merger proforma with actual:
 - FY24 performance
 - FY25 performance
-Assessed impact on:
+  Assessed impact on:
 - NIM
 - LDR
 - ROE
